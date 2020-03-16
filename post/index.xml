@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rrk Blog</title>
-    <link>https://rraraka.github.io/</link>
-    <description>Recent content on rrk Blog</description>
+    <title>Post on rrk Blog</title>
+    <link>https://rraraka.github.io/post/</link>
+    <description>Recent content in Post on rrk Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>All rights reserved</copyright>
     <lastBuildDate>Mon, 16 Mar 2020 22:21:10 +0800</lastBuildDate>
     
-	<atom:link href="https://rraraka.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rraraka.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
